@@ -8,20 +8,10 @@ portal o usar como ejemplo para construir API para algun desarrollo en otro leng
 Puedes hacerlo sin el "for" para solo mostrar una salida, pero si necesitas colsultar varios 
 SubItems es obligatorio su uso.
 
-/* 
-   Poblamos html para el desplegue. Puedes ocupar cualquiera de estos elementos:
-<channel>
-   <title>
-   <link>
-   <description>
-<item>
-   <title>
-   <pubDate>
-   <description>
-   <link>
 
-Para el standar de xml para rss existen otros mas pero no se ocupan en este xml en particular.
-*/
+Mas informacion puedes encontrar en los manuales para PHP de la comunidad w3schools
+https://www.w3schools.com/php/php_ajax_rss_reader.asp
 
 Cualquier Mejora es Bienvenida..!
+
 Espero que les sea de utilidad.
