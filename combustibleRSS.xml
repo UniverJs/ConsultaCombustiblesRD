@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MICM - Combustibles RSS</title>
+        <link>https://www.micm.gob.do</link>
+        <description>MIC - Precios de Combustibles</description>
+        <atom:link href="https://micm.gob.do" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Precios de Combustibles: Semana del 10 al 16 de Marzo de 2018</title>
+            <guid isPermaLink="false">https://www.micm.gob.do/</guid>
+            <pubDate>Viernes, 09 de Marzo de 2018 10:20:00 - 0400</pubDate>
+            <media:credit>Dirección de Hidrocarburos, MICM</media:credit>
+            <description>
+                <![CDATA[
+                    <div><strong>Gasolina Premium: </strong>RD$227.30</div>
+
+                    <div><strong>Gasolina Regular: </strong>RD$214.20</div>
+
+                    <div><strong>Gasoil Optimo: </strong>RD$183.60</div>
+
+                    <div><strong>Gasoil Regular: </strong>RD$172.30</div>
+
+                    <div><strong>Kerosene: </strong>RD$162.30</div>
+
+                    <div><strong>Gas Licuado de Petróleo (GLP): </strong>RD$111.30</div>
+
+                    <div><strong>Gas Natural Vehicular (GNV): </strong>RD$28.97</div>
+                ]]>
+            </description>
+            <link>https://www.micm.gob.do/</link>
+        </item>
+    </channel>
+</rss>
